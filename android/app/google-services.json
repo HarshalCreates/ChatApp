@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "368178370756",
+    "project_id": "apnachat-accd5",
+    "storage_bucket": "apnachat-accd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368178370756:android:432474b6977ff06409d191",
+        "android_client_info": {
+          "package_name": "com.example.chetapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368178370756-d7sspop4q4vgmoq7k1lvmkqa3fsvntgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chetapp2",
+            "certificate_hash": "a790fdd011e8d18f03666ea23d5c504a665bb045"
+          }
+        },
+        {
+          "client_id": "368178370756-bcogi3l7rldgkjam12e46g61u123a5a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-N07WaEWkIiRKCoRlVdV2Cdc88dm1FPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368178370756-bcogi3l7rldgkjam12e46g61u123a5a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
